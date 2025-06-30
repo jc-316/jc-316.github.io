@@ -1,0 +1,19 @@
+enable  : true
+item  :
+  - icon  : tf-ion-ios-copy-outline
+    title : Intake & Assesment 
+    description : >
+      Get to know the UHope family in a relaxed and stress-free atmosphere. We'll discuss topics such as how you heard about UHope, as well as how we can best assist you in achieving your goals.  how we can best assist you. 
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-alarm-outline
+    title : Progress
+    description : >
+      During the initial intake phase, a plan will be crafted specifically to help our new clients acheive their goals. Periodic 
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+
+  - icon  : tf-ion-ios-book-outline
+    title : A New Chapter
+    description : >
+      The graduation period. A journey travled, with both friends and experiences made. 
+      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.

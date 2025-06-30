@@ -1,0 +1,42 @@
+enable  : true
+topTitle: Some Reflections 
+title   : Gallery
+subtitle: It's not about where you've been; It's about where you're going
+
+filtermenu :
+  - name      : Uhope Ministries
+    category  : ministries
+    
+  - name      : Veterans 
+    category  : veterans
+
+  - name      : Emergency Shelter
+    category  : shelter
+
+  - name      : Toys For Tots 
+    category  : toys
+
+item   :
+  - title : AirBnB Postcard
+    image : images/portfolio/portfolio-1.jpg
+    category  : veterans
+
+  - title : D Ministries
+    image : images/portfolio/portfolio-2.jpg
+    category  : shelter, ministries
+
+  - title : Xbox 360
+    image : images/portfolio/portfolio-3.jpg
+    category  : veterans, toys
+
+  - title : Ballon Card
+    image : images/portfolio/portfolio-4.jpg
+    category  : shelter
+
+  - title : Ready Toons
+    image : images/portfolio/portfolio-5.jpg
+    category  : ministries
+
+  - title : Illustration
+    image : images/portfolio/portfolio-6.jpg
+    category  : toys

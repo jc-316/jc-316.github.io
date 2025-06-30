@@ -1,0 +1,31 @@
+enable  : true
+topTitle: What we've been upto
+title   : Our Programs
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+item    :
+  - number  : 1
+    icon    : tf-ion-ios-briefcase-outline
+    title   : Veteran Housing
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 2
+    icon    : tf-ion-ios-alarm-outline
+    title   : Toys For Tots
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 3
+    icon    : tf-ion-ios-email-outline
+    title   : Emergency Shelter 
+    description : >
+      The Emergency shelter is a 30-day, shared living space program for clients seeking to get back on their feet in short time frame. 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+
+  - number  : 4
+    icon    : tf-ion-ios-locked-outline
+    title   : UHope Ministries 
+    description : >
+      Through the lord, all things are possible.
+      Give all praise and thanks onto the lord. 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
