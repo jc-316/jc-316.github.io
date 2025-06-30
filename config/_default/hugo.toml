@@ -15,3 +15,7 @@ pygmentsCodeFences = true
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir = false
 DefaultContentLanguage = "en"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
