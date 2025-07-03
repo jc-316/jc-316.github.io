@@ -9,7 +9,7 @@
             <div class="col-md-12">
                 <nav class="navbar navbar-expand-lg">
                     <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
-                        <h1 class="text-arc-blue-300">{{ .Site.Params.logoText }}</h1>
+                        <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
                     </a>
                     <div class="d-flex align-items-center">
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
@@ -17,12 +17,7 @@
                             <span class="tf-ion-android-menu"></span>
                         </button>
                         <!-- Icones & drapeaux de choix des langues -->
-                        <div id="drapeaux" class="select-language d-block d-lg-none">
-                            <!-- Pour passer la langue actuelle (variable globale) dans la range => explicitement -->
-                            {{ range .Site.Params.listeLangues }}
-                            {{ partial "flags.html" (dict "site" $.Site "liste" .) }}
-                            {{ end }}
-                        </div>
+                        
                     </div>
                     <div class="collapse navbar-collapse" id="navigation">
                         <ul class="navbar-nav ml-auto">
