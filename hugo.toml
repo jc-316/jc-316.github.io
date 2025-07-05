@@ -78,16 +78,18 @@ expire_days = 2
 [Languages.en.params.hero]
 enable = true
 heading = "Bringing hope to the community"
-description = "UHope first opened its doors back in 2008. The first client was a man down on his luck in need for somewhere, anywhere, to sleep... Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+description = "Since 2008, UHope CDC, founded by Aletha Scott-Mallory in Sandy Springs, Georgia, has been dedicated to transforming the lives of homeless men and veterans. With over 1,000 men assisted, UHope offers housing solutions, support services, and community programs designed to empower individuals to regain stability and hope. Committed to compassion and faith, UHope not only provides shelter but also builds a supportive community to foster lasting change."
 button = true
 btnText = "Know More"
-videoThumb = "images/slider/video-player-thumb.jpg"
+btnURL = "images/slider/video-player-thumb.jpg"
+
+image =  "images/slider/community.jpg"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable = true
 title = "Spreading hope throughout the community"
-description = "UHope CDC (Community Development Center) is a 501(c)(3) Non-Profit orginization located in the heart of Sandy Springs, Georgia. UHope provides housing services for our nations veterans in addition to men facing economic hardship."
+description = "UHope CDC is a beacon of hope for homeless men and veterans in our community. We offer emergency shelter, transitional and permanent housing, and personalized support to help men reclaim their lives. Beyond housing, we actively contribute to community initiatives like Toys-for-Tots, spreading joy to children in need every holiday season. Our youth outreach program empowers young men aged 18-25 by providing housing and vital resources, ensuring that the next generation has the support they need to thrive."
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -102,7 +104,7 @@ enable = true
 topTitle = "A better tommorow starts today"
 title = "Future Client Form"
 subtitle = "Once you have completed the form, our case manager will reach out to you as soon as possible (typically the same day)"
-address = "14/05, Stockhome <br> Victori Palace , United States"
+address = "112 Roswell Road (unit 3) <br> Sandy Springs, Georgia, 30350"
 phone = "(03) 9283 2617"
 fax = "+61 3827 3590"
 facebook = "https://www.facebook.com/"

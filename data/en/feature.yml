@@ -1,19 +1,19 @@
 enable  : true
 item  :
   - icon  : tf-ion-ios-copy-outline
-    title : Intake & Assesment 
+    image : images/about/homeless-1.jpg
+    title : Veteran Assistance
     description : >
-      Get to know the UHope family in a relaxed and stress-free atmosphere. We'll discuss topics such as how you heard about UHope, as well as how we can best assist you in achieving your goals.  how we can best assist you. 
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Veterans who have served our country deserve dignity, respect, and a place to call home. UHope CDC is proud to provide permanent housing and tailored support to homeless veterans, helping them transition from instability to independence. We understand the unique challenges veterans face and are committed to honoring their service by walking alongside them every step of the way toward a brighter future.
 
   - icon  : tf-ion-ios-alarm-outline
-    title : Progress
+    image : images/about/giving-hope-to-homeless-3.jpg
+    title : Emergency Shelter
     description : >
-      During the initial intake phase, a plan will be crafted specifically to help our new clients acheive their goals. Periodic 
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      Our emergency shelter program offers immediate, short-term housing for men of all ages who are at risk of or currently experiencing homelessness. Providing up to 30 days of safe refuge, this program gives individuals the critical time and support needed to stabilize their situation, access resources, and plan for long-term housing solutions. At UHope, no one faces homelessness alone.
 
   - icon  : tf-ion-ios-book-outline
-    title : A New Chapter
+    image : images/about/street-ministry.jpg
+    title : Uhope Ministries
     description : >
-      The graduation period. A journey travled, with both friends and experiences made. 
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      At the heart of UHope CDC is a faith-based commitment to healing and community. We invite our residents and supporters to join us in Christian fellowship every Sunday and Bible study on Wednesday nights. These ministries provide spiritual guidance, encouragement, and a sense of belonging, nurturing the whole person—body, mind, and spirit—as they rebuild their lives.

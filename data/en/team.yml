@@ -1,25 +1,13 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: Starts with Hope
+title   : Founder
+subtitle: 
 
 member  :
   - image         : images/team/member-1.jpg
     name          : Aletha Scott-Mallory
     designation   : Founder
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      Aletha Scott-Mallory, the heart behind UHope CDC, was born in Liberia and came to the United States to pursue her college education at Western Kentucky University. Raised in a close-knit Christian village, Aletha grew up with a deep sense of faith, community, and compassion. Her upbringing instilled in her a lifelong passion for giving back and standing beside those in need. Guided by her faith and a calling to serve, Aletha founded UHope in 2008 with a mission to support homeless men and veterans in rebuilding their lives. Her vision was simple yet powerful: to create a place where people could find shelter, dignity, hope, and the resources to begin again. Since then, she has helped over 1,000 men find stability and purpose through UHope’s programs. Aletha continues to lead with humility, dedication, and an unwavering belief that true change begins when we come together to uplift one another.
     
-
-  - image         : images/team/member-2.jpg
-    name          : Manfred Michel 
-    designation   : Director of Operations
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
    
-  - image         : images/team/member-3.png
-    name          : John Calfee
-    designation   : Senior Developer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-  

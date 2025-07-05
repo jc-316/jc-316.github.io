@@ -1,16 +1,13 @@
 enable  : true
 item    :
   - positionRight : false
-    image : images/about/about-1.jpg
+    image : images/about/giving-hope-to-homeless-2.jpg
     title : The Heroes Of Our Country
     description : >
-      Our countries veterans are at the forefront in our thoughts and a top priority at UHope. and prayers
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Behind every success story at UHope CDC are the countless heroes of our community—everyday people who choose to stand up and make a difference. From dedicated volunteers and generous donors to local partners and staff, these heroes embody the spirit of compassion and resilience. Our community’s strength begins with individuals willing to support one another through life’s toughest challenges. Together, we build a network of hope and healing, proving that when we unite, no adversity is too great. Join us in being a hero in someone’s life—because change starts with you.
 
   - positionRight : true
-    image : images/about/about-2.jpg
+    image : images/about/about-20.jpg
     title : Making A Difference 
     description : >
-      UHope has inspired and transformed the lives of thousands of men that came through our doors.   
-      Toys for tots, Providing food clothing and shelter
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      UHope CDC relies on the generous support of people like you to keep our doors open and expand our reach to men and veterans in need. As a 501(c)(3) nonprofit, every donation and volunteer hour directly impacts lives—providing shelter, resources, and hope to those who need it most. Whether you give your time, your talents, or your treasure, your involvement makes all the difference. Together, we can take the next step toward ending homelessness and building stronger communities. Join us today—because hope depends on you.

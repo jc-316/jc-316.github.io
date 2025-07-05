@@ -53,7 +53,7 @@ a:focus, a:hover {
 }
 
 .btn-main, .btn-main-sm {
-  background-color: #21D6BF;
+  background-color: #646985;
   background-image: linear-gradient(100deg, #91b8c2, #97dbe3);
   color: #fff;
   display: inline-block;
@@ -331,7 +331,7 @@ a:focus, a:hover {
 
 .title h2 {
   font-size: 35px;
-  color: #232323;
+  color: #646985;
   text-transform: capitalize;
   margin-bottom: 8px;
   font-weight: 700;
@@ -470,7 +470,7 @@ a:focus, a:hover {
 
 .navigation {
   transition: .3s all;
-  background: #1f2532;
+  background: #eef0f6;
 }
 
 .select-language a {
@@ -505,9 +505,14 @@ a:focus, a:hover {
   color: #fff;
 }
 
+.custom-nav-link-text{
+  color: #db283b;
+}
+
 .navigation .navbar-nav > li > .nav-link {
-  color: #b6b8bb;
-  font-size: 15px;
+  color: #758ef0;
+  font-weight: bold;
+  font-size: 21px;
   line-height: 26px;
   padding: 20px 15px !important;
   transition: .2s ease-in-out 0s;
@@ -532,7 +537,7 @@ a:focus, a:hover {
 }
 
 .navigation .navbar-toggler {
-  color: #fff;
+  color: #20a453;
   font-size: 30px;
   cursor: pointer;
   outline: none;
@@ -665,7 +670,7 @@ a:focus, a:hover {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: #1f2532;
+  background: #fff;
 }
 
 @media (max-width: 480px) {
@@ -675,7 +680,7 @@ a:focus, a:hover {
 }
 
 .hero-area .block {
-  color: #fff;
+  color: #646985;
   padding-left: 30px;
 }
 
@@ -812,7 +817,7 @@ a:focus, a:hover {
 
 .about h4 {
   font-size: 14px;
-  color: #97dbe3;
+  color: #646985;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -923,7 +928,7 @@ a:focus, a:hover {
   border: 1px solid #dedede;
   box-shadow: none;
   height: 45px !important;
-  color: #0c0c0c;
+  color: #646985;
   height: 38px;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
@@ -933,7 +938,7 @@ a:focus, a:hover {
 .contact-form input:hover,
 .contact-form textarea:hover,
 .contact-form #contact-submit:hover {
-  border-color: #97dbe3;
+  border-color: #646985;
 }
 
 .contact-form #contact-submit {
@@ -941,7 +946,7 @@ a:focus, a:hover {
   padding: 15px 0;
   width: 100%;
   margin: 0;
-  background: #97dbe3;
+  background: #526ce2;
   color: #fff;
   border-radius: 0;
   cursor: pointer;
@@ -971,7 +976,7 @@ a:focus, a:hover {
   height: 30px;
   width: 30px;
   text-align: center;
-  color: #97dbe3;
+  color: #758ef0;
 }
 
 .social-icon li a i {
@@ -979,6 +984,10 @@ a:focus, a:hover {
   font-size: 20px;
   line-height: 50px;
   margin: 0;
+}
+
+.custom-contact-block {
+  color: #526ce2;
 }
 
 .error {
@@ -1257,7 +1266,7 @@ a:focus, a:hover {
 
 .services .service-block i {
   font-size: 40px;
-  color: #758ef0;
+  color: #646985;
   background: linear-gradient(100deg, #f9643d, #97dbe3);
   background-clip: text;
   -webkit-background-clip: text;
@@ -1265,12 +1274,16 @@ a:focus, a:hover {
 }
 
 .services .service-block h3 {
-  color: #333;
+  color: #646985;
   font-size: 18px;
 }
 
 .services .service-block p {
-  color: #777;
+  color: #646985;
+}
+
+.custom-about-block{
+  color: #646985;
 }
 
 /*=================================================================
@@ -1510,7 +1523,10 @@ a:focus, a:hover {
   overflow: hidden;
   position: relative;
   height: 200px;
-  width: 200px;
+  display: block;
+  width: 50%;
+  margin: auto;
+
 }
 
 .team-member .member-photo img {
@@ -1521,13 +1537,13 @@ a:focus, a:hover {
   Testimonial section
 ==================================================================*/
 .testimonial {
-  background: #758ef0;
+  background: #fff;
   position: relative;
 }
 
 .testimonial .item i {
   font-size: 40px;
-  color: #fff;
+  color: #646985;
   margin-bottom: 30px;
   display: inline-block;
 }
@@ -1538,14 +1554,14 @@ a:focus, a:hover {
 
 .testimonial .item .client-details p {
   font-size: 17px;
-  color: #fff;
+  color: #646985;
   font-weight: 200;
   padding: 0 10%;
 }
 
 .testimonial .item .client-meta {
   margin-top: 8px;
-  color: #fff;
+  color: #646985;
 }
 
 .testimonial .item .client-meta h4 {

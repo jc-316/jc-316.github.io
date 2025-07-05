@@ -2,56 +2,12 @@
 <footer id="footer" class="bg-one">
     <div class="top-footer">
         <div class="container">
-            <div class="row">
-                <div class="col-sm-3 col-md-3 col-lg-3">
-                    <h3>{{ .Site.Params.footerAboutTitle }}</h3>
-                    {{ with .Site.Params.footerDescription }}<p>{{ . }}</p>{{ end }}
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3">
-                    <h3>{{ .Site.Params.footerServiceTitle }}</h3>
-                    <ul>
-                        {{ range .Site.Menus.service }}
-                        <li>
-                            <a href="{{ .URL | absLangURL }}">{{ i18n .Name }}</a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3">
-                    <h3>{{ .Site.Params.footerQuicklinkTitle }}</h3>
-                    <ul>
-                        {{ range .Site.Menus.quicklink }}
-                        <li>
-                            <a href="{{ .URL | absLangURL }}">{{ i18n .Name }}</a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                </div>
-                <div class="col-sm-3 col-md-3 col-lg-3">
-                    <h3>{{ .Site.Params.footerSubscribeTitle }}</h3>
-                    {{ with site.Params.subscription }}
-                    {{ if .enable }}
-                    <form class="subscribe-form"
-                    action="{{ .mailchimp_form_action }}"
-                    name="{{ .mailchimp_form_name }}">
-                        <div class="form-group">
-                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                        </div>
-                        <button type="submit" class="btn btn-main-sm">Subscribe Now</button>
-                    </form>
-                    {{ end }}
-                    {{ end }}
-                </div>
+            <div class="footer-bottom text-center justify-center">
+                <h5>UHope Copyright @2025 - All rights reserved.</h5>
             </div>
         </div>
     </div>
-    <div class="footer-bottom">
-        <h5>Copyright 2021. All rights reserved.</h5>
-        <h6>Design and Developed by Themefisher
-            <br>Get More
-            <a href="https://themefisher.com/hugo-themes/" target="_blank">Themefisher</a>
-        </h6>
-    </div>
+
 </footer>
 {{ "<!-- end footer -->" | safeHTML }}
 

@@ -7,19 +7,19 @@ tabItem   :
     title     : Our Philosophy
     heading   : Restoration The Spirit 
     content   : >
-      Everything starts with hope. UHope aims to restore hope in the lives of those expericing trying times. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
-    image     : images/company/company-image.jpg
+      At UHope CDC, we believe that every person deserves dignity, compassion, and a safe place to call home. Rooted in Christian values and a deep sense of community, we view each individual not by their past or current struggles—but by their potential for growth, healing, and success. We serve with empathy, walk in faith, and strive to uplift those who are most vulnerable among us.
+    image     : images/company/company-image-10.jpg
 
   - id        : mission
     title     : Mission
     heading   : Our Mission
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
-    image     : images/company/company-image-2.jpg
+      To provide housing, support, and hope to homeless men, veterans, and young adults—empowering them to rebuild their lives with dignity, stability, and faith. Through shelter programs, transitional housing, community outreach, and spiritual support, we are committed to breaking the cycle of homelessness and restoring lives one person at a time.
+    image     : images/company/community-mission.jpg
 
   - id        : vision
     title     : Vision
     heading   : Our Vision
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
-    image     : images/company/company-image-3.jpg
+      To create a thriving community where no man is left behind, every veteran is honored with stability, and every young person has the tools to build a better future. We envision a world where homelessness is replaced by opportunity, where faith fuels healing, and where everyday people come together to uplift their neighbors.
+    image     : images/company/community-vision.jpg

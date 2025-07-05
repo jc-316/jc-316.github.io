@@ -1,25 +1,31 @@
 enable : true
 item    :
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : Francis Edo 
+      UHope gave me a second chance when I had nowhere else to turn. The emergency shelter was a safe place, and the staff helped me find transitional housing. Today, I’m back on my feet and hopeful for the future.
+    clientThumb : images/client-logo/client-59.jpg
+    clientName  :  James T., UHope Resident
     clientDesignation: 
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : Jeff Floyd
+      As a veteran, I struggled to find stable housing after leaving the service. UHope not only provided me a home but also a supportive community that understands the challenges veterans face. I’m forever grateful.
+    clientThumb : images/client-logo/client-65.jpg
+    clientName  : Marcus L., Veteran
     clientDesignation: 
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-1.jpg
-    clientName  : James Paterson
+      Volunteering at UHope has been life-changing. Seeing the impact we make, from helping young men through the Youth Outreach program to supporting seniors, reminds me that every small effort counts.
+    clientThumb : images/client-logo/client-70.jpg
+    clientName  : Sarah P., Volunteer
     clientDesignation: 
 
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
-    clientThumb : images/client-logo/clients-2.jpg
-    clientName  : Micheal Butler
+      UHope’s Youth Outreach program helped me find not just housing, but guidance and support when I needed it most. They believed in me, and that gave me the strength to believe in myself.
+    clientThumb : images/client-logo/client-48.jpg
+    clientName  : Tyler M., Youth Outreach
+    clientDesignation: 
+  
+  - quote       : >
+      The Christian fellowship and Bible study offered by UHope gave me a sense of peace and community during a difficult time. It reminded me that I’m not alone on this journey.
+    clientThumb : images/client-logo/client-16.jpg
+    clientName  : David R., UHope Resident
     clientDesignation: 

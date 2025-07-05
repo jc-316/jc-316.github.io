@@ -1,10 +1,12 @@
 enable    : true
-topTitle  : A LIST OF SERVICES
-title     : Our Service.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle  : Help Us Help You
+title     : Our Services
+subtitle  : At UHope CDC, we offer more than just a place to stay—we provide the tools, guidance, and resources our residents need to take meaningful steps forward. Our wraparound services are designed to meet people where they are and help them build a sustainable path toward independence.
 item      :
   - icon  : tf-ion-ios-copy-outline
-    title : Veteran Housing 
+    title : Case Management
+    description : >
+      Our dedicated case managers work closely with each client to assess their unique needs and challenges. Together, we create a personalized action plan with clear steps and timelines, identifying the additional support and services required to help each resident move forward with confidence and purpose.
     list  :
       - name : Brand Strategy
       - name : Advertising / Campaigns
@@ -12,7 +14,9 @@ item      :
       - name : Video / Photography
 
   - icon  : tf-ion-ios-alarm-outline
-    title : Emergency Shelter 
+    title : Referrals
+    description : >
+      We connect our clients with vital community resources they may not be aware of. Whether it’s healthcare, food assistance, job opportunities, or supportive housing programs, our goal is to match individuals with the services that will maximize their chances of success and long-term stability.
     list  :
       - name : Web Design
       - name : E- Commerce Site Design
@@ -20,7 +24,9 @@ item      :
       - name : Mobile UI Design
 
   - icon  : tf-ion-ios-book-outline
-    title : Permenant Housing
+    title : Job Training & Development
+    description : >
+      UHope provides access to job readiness resources that help our clients grow their skill sets and improve their employability. From resume support to training connections, we empower our residents to gain the confidence and tools needed to secure meaningful, long-term employment.
     list  :
       - name : Permenant Housing
       - name : Game Design

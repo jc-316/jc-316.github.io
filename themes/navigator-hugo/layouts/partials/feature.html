@@ -10,8 +10,9 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="service-block color-bg text-center">
                             <div class="service-icon text-center">
-                                <i class="{{ .icon }}"></i>
+                                <img src="{{ .image | absURL }}" class="img-fluid rounded shadow" alt="about-image">
                             </div>
+                            
                             <h3>{{ .title }}</h3>
                             <p>{{ .description }}</p>
                         </div>

@@ -2,17 +2,9 @@ enable    : true
 title     : We Are So Thankful For Our Partners & Sponsors
 description: >
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae dolorem, saepe ab, optio obcaecati id asperiores. Ab ullam qui architecto at eos distinctio debitis, libero reprehenderit excepturi rem ut odit est nam magni ratione necessitatibus, quod eaque, eius minima tempora deleniti illum aliquam! Perferendis optio dolorum blanditiis sapiente aperiam quaerat.
-image     : images/about/about-1.jpg
+image     : images/about/thank-you.jpg
 servicelist:
   -
 clientLogo:
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
-  - image   : images/client-logo/logo1.png
-  - image   : images/client-logo/logo-2.png
-  - image   : images/client-logo/logo-3.png
-  - image   : images/client-logo/logo-4.png
-  - image   : images/client-logo/logo-5.png
+
+ 
