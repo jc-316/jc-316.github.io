@@ -8,13 +8,22 @@
                 <div class="col-md-6 text-center">
                     {{ with .image }}<img class="img-fluid shadow rounded" src="{{ . | absURL }}" alt="service-image"/>{{ end }}
                 </div>
+            
                 <div class="col-md-6 align-self-center">
                     {{ with .title }}<h2>{{.}}</h2>{{ end }}
-                    {{ with .description }}<p>{{.}}</p>{{ end }}
-                    <div class="row">
-                        <div class="col-md-6">
-                            
+                    
+                    <div class="row pt-4">
+                        {{ range .item }}
+                        <div class="col-md-8">
+                            <div class="block">
+                                <ul>
+                                    {{ range .list }}
+                                    <li class="custom-text-size-sponsors">- {{.name}}</li>
+                                    {{ end }}
+                                </ul>
+                            </div>
                         </div>
+                        {{ end }}
                     </div>
                 </div>
             </div>

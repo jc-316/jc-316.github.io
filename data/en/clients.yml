@@ -7,4 +7,17 @@ servicelist:
   -
 clientLogo:
 
+item      :
+  - list  :
+      - name : The United Way
+      - name : Toys For Tots
+      - name : Elizabeth Baptist Church 
+      - name : Rock of Truth Deliverance 
+      - name : Sandy Springs Society 
+      - name : William's House 
+      - name : Solidarity Food Pantry 
+      - name : H.U.D
+     
+
+
  

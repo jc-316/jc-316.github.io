@@ -4,7 +4,7 @@ menufixed = true
 # contact form action
 contact_form_action = "http://localhost:4000/" # contact form works with [https://airform.io/] or [https://formspree.io]
 
-footerDescription = "404 484 5742"
+footerDescription = "404 484 5742 "
 footerServiceTitle = "Address"
 footerQuicklinkTitle = "Quicklinks"
 footerAboutTitle = "Contact"

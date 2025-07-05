@@ -448,10 +448,10 @@ a:focus, a:hover {
 }
 
 .single-page-header {
-  background: #1f2532;
+  background: #dfe2ee;
   padding: 50px 0;
   text-align: center;
-  color: #fff;
+  color: #646985;
   position: relative;
 }
 
@@ -508,6 +508,12 @@ a:focus, a:hover {
 .custom-nav-link-text{
   color: #db283b;
 }
+
+.custom-text-size-sponsors{
+  font-size: 22px;
+  font-weight: bold;
+}
+
 
 .navigation .navbar-nav > li > .nav-link {
   color: #758ef0;

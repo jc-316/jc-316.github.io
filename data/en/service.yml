@@ -4,6 +4,7 @@ title     : Our Services
 subtitle  : At UHope CDC, we offer more than just a place to stay—we provide the tools, guidance, and resources our residents need to take meaningful steps forward. Our wraparound services are designed to meet people where they are and help them build a sustainable path toward independence.
 item      :
   - icon  : tf-ion-ios-copy-outline
+    image : images/about/homeless-1.jpg
     title : Case Management
     description : >
       Our dedicated case managers work closely with each client to assess their unique needs and challenges. Together, we create a personalized action plan with clear steps and timelines, identifying the additional support and services required to help each resident move forward with confidence and purpose.
@@ -14,6 +15,7 @@ item      :
       - name : Video / Photography
 
   - icon  : tf-ion-ios-alarm-outline
+    image : images/about/homeless-1.jpg
     title : Referrals
     description : >
       We connect our clients with vital community resources they may not be aware of. Whether it’s healthcare, food assistance, job opportunities, or supportive housing programs, our goal is to match individuals with the services that will maximize their chances of success and long-term stability.
@@ -25,6 +27,7 @@ item      :
 
   - icon  : tf-ion-ios-book-outline
     title : Job Training & Development
+    image : images/about/homeless-1.jpg
     description : >
       UHope provides access to job readiness resources that help our clients grow their skill sets and improve their employability. From resume support to training connections, we empower our residents to gain the confidence and tools needed to secure meaningful, long-term employment.
     list  :
