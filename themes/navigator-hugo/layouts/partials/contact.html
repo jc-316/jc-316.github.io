@@ -23,7 +23,7 @@
             </div>
             {{ "<!-- Contact Form -->" | safeHTML }}
             <div class="contact-form col-12 col-md-6 ">
-                <form id="contact-form" method="post" action="{{ site.Params.contact_form_action }}" role="form">
+                <form action="https://airform.io/calfee@protonmail.com" method="post">
 
                     <div class="form-group">
                         <input type="text" placeholder="First Name" class="form-control" name="firstName" id="firstName">
@@ -38,7 +38,7 @@
                     </div>
 
                     <div class="form-group">
-                        <input type="email" placeholder="Phone Number" class="form-control" name="phone" id="phone">
+                        <input type="text" placeholder="Phone Number" class="form-control" name="phone" id="phone">
                     </div>
 
                     <div class="form-group">
@@ -52,18 +52,12 @@
                         
                     </div>
 
-                    <div id="mail-success" class="success">
-                        Thank you. The Mailman is on His Way :)
-                    </div>
-
-                    <div id="mail-fail" class="error">
-                        Sorry, don't know what happened. Try later :(
-                    </div>
-
                     <div id="cf-submit">
-                        <input type="submit" id="contact-submit" class="btn btn-transparent custom-color-submit" value="Submit">
+                        <button class="btn custom-color-submit w-100 p-2">Send</button>
                     </div>
                 </form>
+               
+
             </div>
         </div>
         <div class="row">

@@ -1344,6 +1344,11 @@ a:focus, a:hover {
   transition: all 0.3s ease 0s;
 }
 
+.custom-color-submit{
+  color: #fff;
+  background: #758ef0;
+}
+
 .service-list .block {
   background: #758ef0;
   color: #fff;
