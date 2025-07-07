@@ -21,6 +21,12 @@
                 href="//localhost:1313/english/"
                 />
   </url><url>
+    <loc>//localhost:1313/blog/installation/</loc>
+    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/english/blog/installation/</loc>
+    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2018-07-08T12:22:40+06:00</lastmod>
     <xhtml:link
@@ -33,12 +39,6 @@
                 hreflang="en-us"
                 href="//localhost:1313/"
                 />
-  </url><url>
-    <loc>//localhost:1313/blog/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/english/blog/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/blog/the-nourish-box-august/</loc>
     <lastmod>2018-07-08T12:20:58+06:00</lastmod>

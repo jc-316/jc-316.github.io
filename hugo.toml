@@ -61,7 +61,7 @@ btnText = "Nous contacter"
 [Languages.en]
 weight = 2
 languageCode = "en-us"
-title = "Example site multi-language"
+title = "UHope"
 dateFormat = "January 2, 2006"
 home = "Home"
 logo = "images/logo.png"

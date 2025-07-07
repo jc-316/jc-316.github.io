@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Englishes on Example site multi-language</title>
+    <title>Englishes on UHope</title>
     <link>//localhost:1313/english/</link>
-    <description>Recent content in Englishes on Example site multi-language</description>
+    <description>Recent content in Englishes on UHope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
