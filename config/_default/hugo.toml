@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://github.com/jc-316/jc-316.github.io"
 languageCode = ""
 title = "UHope"
 theme = "navigator-hugo"
