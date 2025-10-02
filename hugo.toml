@@ -88,8 +88,9 @@ image =  "images/slider/community.jpg"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable = true
-title = "Spreading hope throughout the community"
+title = "Spreading Hope Throughout North Fulton County"
 description = "UHope CDC is a beacon of hope for homeless men and veterans in our community. We offer emergency shelter, transitional and permanent housing, and personalized support to help men reclaim their lives. Beyond housing, we actively contribute to community initiatives like Toys-for-Tots, spreading joy to children in need every holiday season. Our youth outreach program empowers young men aged 18-25 by providing housing and vital resources, ensuring that the next generation has the support they need to thrive."
+fulton_image =  "images/fulton-logo.png"
 
 # Blog Section On Homepage
 [Languages.en.params.blog]
@@ -106,7 +107,7 @@ title = "Future Client Form"
 subtitle = "Once you have completed the form, our case manager will reach out to you as soon as possible (typically the same day)"
 address = "112 Norcross Steet (unit 3) <br> Roswell, Georgia, 30075"
 phone = "(470) 412 0778"
-fax = "welcome@uhopecommunity@gmail.com"
+fax = "welcome@uhopecommunity.com"
 facebook = "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin = "https://www.linkedin.com/"

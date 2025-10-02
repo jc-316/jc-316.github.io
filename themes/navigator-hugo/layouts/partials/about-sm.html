@@ -3,16 +3,21 @@
 <section class="about-2 section bg-gray" id="about">
     <div class="container">
         <div class="row">
-            <div class="col-12 col-md-5 custom-about-block">
+            
+            <div class="col-12 col-md-7 custom-about-block">
                 {{ with .Site.Params.aboutSm.title }}
                     <h2>{{ . }}</h2>
                 {{ end }}
-            </div>
-            <div class="col-12 col-md-7">
+                <br />
                 {{ with .Site.Params.aboutSm.description }}
                     <p>{{ . | markdownify }}</p>
                 {{ end }}
             </div>
+
+            <div class="col-12 col-md-5 custom-about-block">
+                    <img class="img-fluid rounded" src="{{ with .Site.Params.aboutSm.fulton_image }}{{.| absURL }}{{ end }}" alt="video-thumb">
+            </div>
+            
         </div>
     </div>
 </section>
