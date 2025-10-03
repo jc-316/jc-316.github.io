@@ -1,4 +1,4 @@
-baseURL = "https://uhopecommunity.org/"
+baseURL = "/"
 languageCode = ""
 title = "UHope"
 theme = "navigator-hugo"
