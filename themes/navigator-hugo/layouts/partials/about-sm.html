@@ -2,17 +2,23 @@
 {{ "<!-- Start About Section -->" | safeHTML }}
 <section class="about-2 section bg-gray" id="about">
     <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-5 custom-about-block">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-5 custom-about-block justify-content-center">
                 {{ with .Site.Params.aboutSm.title }}
                     <h2>{{ . }}</h2>
                 {{ end }}
             </div>
+            
+            
             <div class="col-12 col-md-7">
                 {{ with .Site.Params.aboutSm.description }}
                     <p>{{ . | markdownify }}</p>
                 {{ end }}
             </div>
+
+              <div class="video-player justify-content- pt-4">
+                    <img class="img-fluid rounded justify-content-center" src="{{ with .Site.Params.aboutSm.image }}{{.| absURL }}{{ end }}" alt="video-thumb">
+                </div>
         </div>
     </div>
 </section>
